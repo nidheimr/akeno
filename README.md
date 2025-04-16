@@ -11,7 +11,7 @@ It can be run in most emulators, but if using QEMU you can run the following com
 
 ## Building
 
-This project requires a linux environment with the following tools:
+This project requires a linux environment with the following tools (WSL also works):
 - `nasm`
 - `make`
 
